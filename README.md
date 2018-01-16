@@ -1,4 +1,4 @@
-## Welcome to Kimitoboxers
+## Welcome to Kimitobojo
 
 You can use the [editor on GitHub](https://github.com/kimitobo/kimitobo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
